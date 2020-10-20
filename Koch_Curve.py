@@ -1,4 +1,4 @@
-axiom = input()
+axiom = input() # axiom = F
 itr = int(input())
 tempStr = ""
 for i in range(1, itr+1):
